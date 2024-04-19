@@ -1,0 +1,24 @@
+{
+  "name": "@valkyriestudios/data-colors",
+  "version": "0.0.0",
+  "description": "Colors Data Pack",
+  "author": {
+    "name": "Peter Vermeulen",
+    "url": "https://www.linkedin.com/in/petervermeulen1/"
+  },
+  "keywords": [
+    "data",
+    "json",
+    "colors",
+    "html"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ValkyrieStudios/data-colors.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ValkyrieStudios/data-colors/issues"
+  },
+  "homepage": "https://github.com/ValkyrieStudios/data-colors#readme"
+}
